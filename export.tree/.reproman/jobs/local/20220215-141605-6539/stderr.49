@@ -1,2 +1,0 @@
-Could not generate CITATION.tex file:
-pandoc -s --bibliography /opt/conda/lib/python3.8/site-packages/fmriprep/data/boilerplate.bib --natbib /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds000115-fmriprep/logs/CITATION.md -o /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds000115-fmriprep/logs/CITATION.tex
