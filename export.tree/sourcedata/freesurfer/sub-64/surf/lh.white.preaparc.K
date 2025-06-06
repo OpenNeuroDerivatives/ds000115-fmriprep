@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/GM/z4/MD5E-s593523--fa6821ddd651259f025124a290d037aa.K/MD5E-s593523--fa6821ddd651259f025124a290d037aa.K
